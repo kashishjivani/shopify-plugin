@@ -50,4 +50,5 @@ This project is a Shopify plugin designed to generate customized ads for Instagr
    ```
 
 ## Stay Tuned!
-It's gonna really come soon!
+Check out [here](https://instagram-ads-shopify-plugin.vercel.app/). It's gonna really come soon!
+
