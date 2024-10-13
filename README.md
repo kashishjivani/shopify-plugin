@@ -48,3 +48,6 @@ This project is a Shopify plugin designed to generate customized ads for Instagr
    ```bash
    npm start
    ```
+
+## Stay Tuned!
+It's gonna really come soon!
